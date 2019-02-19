@@ -1,0 +1,6 @@
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Debug\BALANCA.exe.config
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\obj\Debug\BALANCA.csprojResolveAssemblyReference.cache
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Debug\BALANCA.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Debug\BALANCA.pdb
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\obj\Debug\BALANCA.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\obj\Debug\BALANCA.pdb

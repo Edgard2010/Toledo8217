@@ -1,0 +1,5 @@
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Release\BALANCA.exe.config
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Release\BALANCA.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\bin\Release\BALANCA.pdb
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\obj\Release\BALANCA.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\BALANCA\BALANCA\obj\Release\BALANCA.pdb
